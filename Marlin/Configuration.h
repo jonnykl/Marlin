@@ -500,9 +500,9 @@
     #define DEFAULT_Kd_LIST { 114.00, 114.00 }
   #else
     // Anet A8
-    #define DEFAULT_Kp 17.15
-    #define DEFAULT_Ki  0.80
-    #define DEFAULT_Kd 92.04
+    #define DEFAULT_Kp 15.59
+    #define DEFAULT_Ki  0.89
+    #define DEFAULT_Kd 68.27
   #endif
 #endif // PIDTEMP
 
